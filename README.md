@@ -1,5 +1,5 @@
 # Change-Detection
-Java based "Change Detection Application" for video where first user must have to pick his background frame for video. After that fame shall be taken absoulute difference between from selected backgrund and current frame. At the case Camera Tampering background shall be changed with new background of camera. Build the uploaded project in following environment before executing it:
+Java based "Change Detection Application" for video where user must have to pick background frame from video. After that change detection shall be calculated by absoulute difference between selected backgrund and current frame of video. At the case of "Camera Tampering" selected background frame by user shall be changed with new background of camera (in case of light sensitivity chamged). Build the uploaded project in following environment before executing it:
 
 Platform OS: Linux
 
